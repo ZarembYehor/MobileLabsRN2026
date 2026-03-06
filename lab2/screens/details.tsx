@@ -1,8 +1,8 @@
-import { StackScreenProps } from "@react-navigation/stack";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { RootStackParamList } from "../types/RootStackParamList";
 import { Text, View, Image, StyleSheet, ScrollView } from "react-native";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";
+import React from "react";
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Details'>;
 
@@ -10,7 +10,7 @@ export default function Details({ route }: Props) {
     const { newsData } = route.params;
 
     return (
-        <SafeAreaView edges={['top']} style={styles.safeArea}>
+        <SafeAreaView edges={['bottom', 'left', 'right']} style={styles.safeArea}>
             <ScrollView showsVerticalScrollIndicator={false}>
                 <Image
                     source={newsData.image}
