@@ -44,7 +44,7 @@
 ### Скріншоти застосунку
 | Стрічнка новин | Деталі новин | Контакти | Кастомне меню |
 | :---: | :---: | :---: | :---: |
-| ![Screen 1](/lab2/screenshots/screenshot1.jpg) | ![Screen 2](/lab2/screenshots/screenshot2.jpg) | ![Screen 3](/lab2/screenshots/screenshot3.jpg) | ![Screen 4](/lab2/screenshots/screenshot4.jpg) |
+| ![Screen 1](/lab2/screenshots/screenshot1.jpg) | ![Screen 2](/lab2/screenshots/screenshot2.png) | ![Screen 3](/lab2/screenshots/screenshot3.jpg) | ![Screen 4](/lab2/screenshots/screenshot4.jpg) |
 
 ### Чим відрізняється FlatList від ScrollView?
 ScrollView рендерить усі свої дочірні компоненти одночасно одразу після завантаження. Це підходить для коротких сторінок. FlatList рендерить лише ті елементи, які зараз видно на екрані, що значно економить пам'ять та ресурси при роботі з великими масивами даних.
