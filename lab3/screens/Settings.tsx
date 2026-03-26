@@ -15,7 +15,6 @@ const Row = styled.View`
   align-items: center;
   padding: 20px;
   border-radius: 15px;
-  /* Додаємо невелику тінь та фон картки */
   background-color: ${props => props.theme.card || (props.theme.isDark ? '#1e1e1e' : '#f9f9f9')};
   elevation: 3;
   shadow-color: #000;

@@ -46,7 +46,7 @@
 ### Скріншоти застосунку
 | Стрічнка новин | Деталі новин | Контакти | Кастомне меню |
 | :---: | :---: | :---: | :---: |
-| ![Screen 1](/lab3/screenshots/screenshot1.jpg) | ![Screen 2](/lab3/screenshots/screenshot2.png) | ![Screen 3](/lab3/screenshots/screenshot3.jpg) | ![Screen 4](/lab3/screenshots/screenshot4.jpg) | ![Screen 5](/lab3/screenshots/screenshot5.jpg) |
+| ![Screen 1](/lab3/screenshots/screenshot1.jpg) | ![Screen 2](/lab3/screenshots/screenshot2.jpg) | ![Screen 3](/lab3/screenshots/screenshot3.jpg) | ![Screen 4](/lab3/screenshots/screenshot4.jpg) | ![Screen 5](/lab3/screenshots/screenshot5.jpg) |
 
 ## Висновки
 
