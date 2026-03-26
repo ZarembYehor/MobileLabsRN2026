@@ -47,7 +47,6 @@ const Tappable = styled(Animated.View)`
   shadow-offset: 0px 10px;
   shadow-opacity: 0.5;
   shadow-radius: 15px;
-  /* Тінь беремо з теми (tabBar як акцент) */
   shadow-color: ${props => props.theme.tabBar};
 `;
 
