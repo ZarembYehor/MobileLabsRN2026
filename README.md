@@ -6,3 +6,4 @@
 3. [Lab 3 — Стилізація, жести](lab3/)
 4. [Lab 4 — Робота з файлами](lab4/)
 5. [Lab 5 — Expo Router](lab5/)
+6. [Lab 6 — Firebase](lab6/)

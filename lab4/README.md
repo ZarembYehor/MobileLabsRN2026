@@ -53,7 +53,7 @@
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГІН/MobileLabsRN2026.git
+   git clone https://github.com/ZarembYehor/MobileLabsRN2026.git
 2. **Перейдіть до папки проєкту**
    ```bash
    cd MobileLabsRN2026/lab4

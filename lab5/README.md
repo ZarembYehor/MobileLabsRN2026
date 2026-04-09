@@ -6,7 +6,7 @@
 ### Скріншоти застосунку
 | Екран помилки | Екран логіну | Екран реєстрації | Екран каталогу | Екран товару |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Screen 1](/lab5/screenshots/screenshot1.jpg) | ![Screen 2](/lab5/screenshots/screenshot2.jpg) | ![Screen 3](/lab5/screenshots/screenshot3.jpg) || ![Screen 3](/lab5/screenshots/screenshot4.jpg) || ![Screen 3](/lab5/screenshots/screenshot5.jpg) |
+| ![Screen 1](/lab5/screenshots/screenshot1.jpg) | ![Screen 2](/lab5/screenshots/screenshot2.jpg) | ![Screen 3](/lab5/screenshots/screenshot3.jpg) || ![Screen 4](/lab5/screenshots/screenshot4.jpg) || ![Screen 5](/lab5/screenshots/screenshot5.jpg) |
 
 ---
 
@@ -16,7 +16,7 @@
 
 1. **Клонуйте репозиторій:**
    ```bash
-   git clone https://github.com/ВАШ_ЛОГІН/MobileLabsRN2026.git
+   git clone https://github.com/ZarembYehor/MobileLabsRN2026.git
 
 2. **Перейдіть до папки проєкту**
    ```bash
