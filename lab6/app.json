@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MobileLabsRN2026",
+    "slug": "MobileLabsRN2026",
+    "version": "1.0.0",
+    "scheme": "mobile-labs-auth", 
+    "android": {
+      "package": "com.admin.MobileLabsRN2026"
+    }
+  }
+}
